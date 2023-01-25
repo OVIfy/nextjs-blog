@@ -1,0 +1,7 @@
+static site generation
+getStaticProps()
+getServerSideProps()
+SWR - for client side rendering
+
+
+preview mode
